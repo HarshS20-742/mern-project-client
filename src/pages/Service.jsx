@@ -23,7 +23,7 @@ const Service = () => {
                     <p>Harsh Yadav</p>
                     <p>{currService.price}</p>
                   </div>
-                  <h2>{currService.service}</h2>
+                  <h2 style={{color: 'black'}}>{currService.service}</h2>
                   <p>{currService.description}</p>
                 </div>
               </div>
