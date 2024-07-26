@@ -163,6 +163,7 @@ a:hover, a.active{
   .hero-content{
     & p{
       margin: 2.4rem 0  4.8rem 0;
+      font-size: medium;
       &:first-child{
         margin: 0 0 1.2rem 0;
 
@@ -175,7 +176,7 @@ a:hover, a.active{
     justify-content: center;
     & img{
       width: 70%;
-      height: auto;
+      height: 70%;
     }
   }
 }
@@ -206,6 +207,7 @@ a:hover, a.active{
 
       & p{
         text-transform: capitalize;
+        font-size: 1.7rem;
       }
     }
   }

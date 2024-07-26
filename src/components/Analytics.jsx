@@ -11,15 +11,15 @@ const Analytics = () => {
                 </div>
                 <div className="div1">
                     <h2>100+</h2>
-                    <p>Happy clients</p>
+                    <p>projects</p>
                 </div>
                 <div className="div1">
-                    <h2>100+</h2>
-                    <p>Happy clients</p>
+                    <h2>10+</h2>
+                    <p>Countries</p>
                 </div>
                 <div className="div1">
-                    <h2>100+</h2>
-                    <p>Happy clients</p>
+                    <h2>7+</h2>
+                    <p>programming languages</p>
                 </div>
             </div>
 
